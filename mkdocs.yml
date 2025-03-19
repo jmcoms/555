@@ -1,6 +1,0 @@
-site_name: 18禁网站
-theme:
-  name: material
-nav:
-  - Home: index.md
-  - Content: content.md
